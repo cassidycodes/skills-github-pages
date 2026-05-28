@@ -6,3 +6,4 @@ title: Welcome to my blog!
 date: 2026-05-28
 Hello world!
 ---
+Thank you for reading this important blog
